@@ -1,3 +1,4 @@
+package edu.guilherme.segundasemana;
 public class MinhaClasses {
 
     public static void main(String[] args) {
